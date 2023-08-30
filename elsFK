@@ -7,7 +7,6 @@ void Game::gameOver()
 		SetPos(1, i);
 		cout << "                            " << endl;
 	}
-SetPos(8, 7);
    SetPos(8, 7);
 	SetPos(8, 7);
 	cout << "G a m e   O v e r" << endl;
